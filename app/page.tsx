@@ -93,7 +93,7 @@ export default function Home() {
     <main className="shell">
       <div className="grain" />
       <nav className="nav wrap">
-        <a className="brand" href="#top" aria-label="SabeelCodes home">
+        <a className="brand" href="#top" aria-label="Snapshad home">
           <span className="brand-mark">S</span>
           <span>Snapshad</span>
         </a>
