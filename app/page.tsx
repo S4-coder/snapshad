@@ -95,7 +95,7 @@ export default function Home() {
       <nav className="nav wrap">
         <a className="brand" href="#top" aria-label="SabeelCodes home">
           <span className="brand-mark">S</span>
-          <span>SabeelCodes</span>
+          <span>Snapshad</span>
         </a>
         <div className="nav-links">
           <a href="#how-it-works">How it works</a>
